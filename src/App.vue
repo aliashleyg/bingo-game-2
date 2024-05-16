@@ -13,7 +13,7 @@ import GameBoard from "@/components/GameBoard.vue";
     </header>
 
     <main>
-      <div class="grid grid-cols-5 grid-rows-5 border-2">
+      <div>
         <GameBoard />
       </div>
     </main>
@@ -22,4 +22,5 @@ import GameBoard from "@/components/GameBoard.vue";
 </template>
 
 <style scoped>
+
 </style>

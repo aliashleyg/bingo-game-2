@@ -1,9 +1,10 @@
 <script setup>
+import GameBoardColumn from "@/components/GameBoardColumn.vue";
 
 </script>
 
 <template>
-<div class="game-board">Hi From Gameboard component!</div>
+<GameBoardColumn />
 </template>
 
 <style scoped>

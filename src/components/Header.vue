@@ -8,7 +8,6 @@
     <div>N</div>
     <div>G</div>
     <div>O</div>
-
 </template>
 
 <style scoped>
