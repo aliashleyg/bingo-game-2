@@ -4,11 +4,8 @@ export default {
 </script>
 
 <template>
-    <div>B</div>
-    <div>I</div>
-    <div>N</div>
-    <div>G</div>
-    <div>O</div>
+  <div>BINGO</div>
+
 </template>
 
 <style scoped>

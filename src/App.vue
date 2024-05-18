@@ -4,17 +4,20 @@ import GameBoard from "@/components/GameBoard.vue";
 </script>
 
 <template>
-  <div class="container grid">
+  <div>
 
     <header>
-      <div class="grid grid-cols-5">
         <Header />
-      </div>
     </header>
 
     <main>
       <div>
-        <GameBoard />
+        <div>
+          <GameBoard />
+        </div>
+        <div>
+          <GameBoard />
+        </div>
       </div>
     </main>
   </div>
