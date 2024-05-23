@@ -1,10 +1,9 @@
 <script setup>
-import GameBoardColumn from "@/components/GameBoardColumn.vue";
-
+import GameBoardCell from './GameBoardCell.vue'
 </script>
 
 <template>
-<GameBoardColumn />
+<GameBoardCell />
 </template>
 
 <style scoped>
